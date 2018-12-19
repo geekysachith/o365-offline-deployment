@@ -1,0 +1,7 @@
+<Configuration>
+<Add SourcePath="your custom folder path" OfficeClientEdition="32" >
+<Product ID="O365BusinessRetail">
+<Language ID="en-us" />
+</Product>
+</Add>
+</Configuration>
